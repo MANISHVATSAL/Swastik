@@ -1,4 +1,4 @@
 # Swastik
 This is my first git repository.
 <br>
-Author -  Manish Vatsal
+Author -  Manish Vatsal (Swatik)
